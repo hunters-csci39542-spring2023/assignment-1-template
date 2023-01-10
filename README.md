@@ -1,11 +1,18 @@
-# Assignment 1: Turnstile Counts
+# Program Description: 
 
-Program Description
-Program 1: Turnstile Counts.   Due 10am, Wednesday, 1 February.
-Learning Objective: to build competency with dictionaries and string functions of core Python.
-Available Libraries: Core Python 3.6+ only.
-Data Sources: MTA's Turnstile Data.
-Sample Datasets: Week ending 10/29/22 (turnstile_221029.txt), Week ending 6/11/22 (turnstile_220611.txt).
+***Program 1 Turnstile Counts***
+
+*Due Date: Due 10am, Wednesday, 1 February.*
+
+*Learning Objective: to build competency with dictionaries and string functions of core Python.*
+
+*Available Libraries: Core Python 3.6+ only.*
+
+*Data Sources: MTA's Turnstile Data.*
+
+*Sample Datasets: Week ending 10/29/22 (turnstile_221029.txt), Week ending 6/11/22 (turnstile_220611.txt).*
+
+<br>
 
 The NYC MTA provides counts of the number of entries and exits through every turnstile in every subway station, as well as daily counts for the entire system.
 
@@ -73,4 +80,4 @@ Ridership for Hunter College: 49669.
 Notes:
 
 - You should submit a file with only the standard comments at the top, this function, and any helper functions you have written. The grading scripts will then import the file for testing. If your file includes code outside of functions, either comment the code out before submitting or use a main function that is conditionally executed (see Think CS: Section 6.8 for details).
-- Below is a template for this program, including function stubs and testing in a (conditionally executed) main function:
+- `p1.py` is a template for this program, including function stubs and testing in a (conditionally executed) main function:
